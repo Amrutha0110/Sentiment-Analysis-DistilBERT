@@ -1,0 +1,14 @@
+
+---
+
+## Paste into `requirements.txt` (root)
+```text
+transformers>=4.20.0
+datasets>=2.0.0
+torch>=1.12.0
+scikit-learn
+numpy
+tqdm
+sentencepiece
+evaluate
+pytest
